@@ -7,6 +7,8 @@ There is a number of topics around the interwebs about the limitations of the Gi
 
 So to address that, I've decompiled and recompiled the related piece of software, removing this silly restriction.
 
+![Screenshot](Screenshot.png)
+
 ## Installation
 1. Kill ControlCenter background service 
 2. Replace C:\Program Files\ControlCenter\DeepFan.dll with the fixed one

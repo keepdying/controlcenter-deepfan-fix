@@ -30,5 +30,7 @@ TODO
 5. Recompile
     - If the compilation complains about lines that look like this: `[global::System.Diagnostics.DebuggerBrowsable(global::System.Diagnostics.DebuggerBrowsableState.Never)]`, just remove them -->
 
+## Credits
+
 thanks <https://gitlab.com/avdaga> for original fix.
-<https://gitlab.com/avdaga/controlcenter-deepfan-fix>
+original repo:<https://gitlab.com/avdaga/controlcenter-deepfan-fix>
